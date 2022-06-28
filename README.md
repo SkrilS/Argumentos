@@ -12,4 +12,5 @@ El uso es fácil y las salidas a mostrar son las siguientes:
   
   ![Paso con parámetros](imagenes/ConComentarios.png)
 
+***
 
